@@ -3,7 +3,7 @@
    
    Adrian Duraj
    
-   Simple filesystem based on COLA data structure using FUSE
+   Simple filesystem based on COLA data structure, using FUSE
    
    Directory listing, file and directory creation
    
