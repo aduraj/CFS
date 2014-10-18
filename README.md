@@ -1,9 +1,6 @@
 COLAFileSystem
 ===
 
-
-Adrian Duraj
-
 Simple filesystem based on COLA data structure, using FUSE
 
 Directory listing, file and directory creation
@@ -17,6 +14,8 @@ Sample run: "./cfs ~/data /tmp/fuse"
 First parameter: the file containing the filesystem, second one: mount dir
 
 
-Edit:
 
-added FAT, reading from and writing to files, max file size - more than one block
+Edit:
+---
+
+Added FAT, reading from and writing to files. Max file size is now more than one block.
